@@ -42,4 +42,4 @@ Farmers expressed interest in simple, clear recommendations rather than complex 
 There is a strong preference for tools that are accessible, practical, and relevant to local conditions
 Overall, the research showed a clear need for a user-friendly AI tool that supports farmers in making better decisions without replacing their existing knowledge and experience.
 
-Streamlit: https://smartfarmingapp-9vtedbsvy4nnvmmd5prwzr.streamlit.app/
+Streamlit: https://smartfarming-hlaqhwgqhggrsg3nthluha.streamlit.app/ 
